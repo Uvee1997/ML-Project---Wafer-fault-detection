@@ -43,7 +43,7 @@ def predictRouteClient():
             return Response("Prediction File created at !!!" + str(path) + 'and few of the predictions are ' + str(
                 json.loads(json_predictions)))
 
-        # if a request is sent from postman
+
         if request.json is not None:
             path = request.json['filepath']
             common_operations(path)
