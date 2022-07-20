@@ -11,7 +11,7 @@ Wafer - A wafer is very thin slice of semiconductor material which is used in va
 
 # Data validation
 In this step, we perform different sets of validation like filename validation, number of columns, name of the
-columns,data type of each columns and other kind of validations. In this step we have to convert it into CSV file.
+columns,data type of each column and other kind of validations. In this step we have to convert it into CSV file.
 This exported CSV file is input for our data training step.
 
 # Data insertion in database
