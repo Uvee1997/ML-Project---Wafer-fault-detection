@@ -1,0 +1,1 @@
+This folder contains all files that are archived as bad files during prediction
