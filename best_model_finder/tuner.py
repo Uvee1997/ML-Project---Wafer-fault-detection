@@ -159,4 +159,3 @@ class Model_Finder:
             raise Exception()
 
 
-Footer
