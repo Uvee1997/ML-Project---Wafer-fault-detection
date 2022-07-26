@@ -1,0 +1,1 @@
+This file contains CSV file which contain wafernames and the output i.e good or bad value
