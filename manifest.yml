@@ -1,0 +1,9 @@
+---
+applications:
+-  Name : WaferQuality
+   memory : 2 GB
+   disk_quota : 2GB
+   random_route : true
+   parameters :
+     memory : 2GB
+     buildpack : 'python_buildpack'
