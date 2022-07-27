@@ -1,0 +1,4 @@
+# When all the application is created & all the dependency are installed the how to run it, that all thing is
+  mentioned in this proctfile.
+
+  web: python main.py    --master --processes 4 --threads 2
